@@ -1,4 +1,4 @@
-### BindingResult_2
+### BindingResult2_rejectValue(), reject()
 
 > 해당 내용은 김영한님의 인프런 강의 Spring MVC2편을 바탕으로 합니다.
 
@@ -9,7 +9,7 @@
 * public FieldError(String objectName, String field, String defaultMessage) {}    
 ```
 처럼 개발자가 `objectName`을 직접 지정해주지 않아도 이미 `bindingResult`는 `objectName`에 어떤 객체를 대상으로 하는지 알고있다. 
-그래서 해당 코드를 생략할 수 있다. 
+그래서 해당 코드를 생략할 수 있다.    
 ![image](https://user-images.githubusercontent.com/108853290/223056565-66fdd1db-e19b-4d3b-b89d-e7359a261188.png)   
 ![image](https://user-images.githubusercontent.com/108853290/223056629-4c970c68-10ba-468c-a437-b95cc3b769e3.png)   
 > .getObjectName()으로 꺼내본 `objectName`
