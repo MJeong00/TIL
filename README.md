@@ -52,6 +52,6 @@
 * [프록시](https://github.com/MJeong00/TIL/blob/main/Spring/%ED%94%84%EB%A1%9D%EC%8B%9C.md)
 * [다국어 설정, 메세지](https://github.com/MJeong00/TIL/blob/main/Spring/%EB%8B%A4%EA%B5%AD%EC%96%B4%20%EC%84%A4%EC%A0%95%2C%20%EB%A9%94%EC%84%B8%EC%A7%80.md)
 * BindingResult_오류 보관 객체
-  * [BindingResult_FieldError(),ObejctError().md](https://github.com/MJeong00/TIL/edit/main/Spring/BindResult_FieldError(),ObejctError().md)
+  * [BindingResult_FieldError(),ObejctError().md]([https://github.com/MJeong00/TIL/edit/main/Spring/BindResult_FieldError(),ObejctError().md](https://github.com/MJeong00/TIL/blob/main/Spring/BindingResult_FieldError()%2CObejctError().md))
   * [BindingResult2_rejectValue(), reject()](https://github.com/MJeong00/TIL/blob/main/Spring/BindingResult2_rejectValue()%2C%20reject().md)
   * [BindingResult의 메세지 코드 다중 지정_MessageCodesResolver.md](https://github.com/MJeong00/TIL/blob/main/Spring/BindingResult%EC%9D%98%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%BD%94%EB%93%9C%20%EB%8B%A4%EC%A4%91%20%EC%A7%80%EC%A0%95_MessageCodesResolver.md)
