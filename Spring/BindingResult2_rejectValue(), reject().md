@@ -24,7 +24,7 @@
 void rejectValue(@Nullable String field, String errorCode, @Nullable Object[] errorArgs, @Nullable String defaultMessage);
 ```
 * `field` : 오류 필드명
-* `errorCode` : 오류 코드
+* `errorCode` : 오류 코드 ([MessageCodesResolver](https://github.com/MJeong00/TIL/blob/main/Spring/BindingResult%EC%9D%98%20%EB%A9%94%EC%84%B8%EC%A7%80%20%EC%BD%94%EB%93%9C%20%EB%8B%A4%EC%A4%91%20%EC%A7%80%EC%A0%95_MessageCodesResolver.md) 참고)
 * `errorArgs` : 오류 메시지에서 {0} 을 치환하기 위한 값
 * `defaultMessage` : 오류 메시지를 찾을 수 없을 때 사용하는 기본 메시지   
 
